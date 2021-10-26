@@ -2,3 +2,5 @@ Flask
 pickle
 numpy
 gunicorn
+pandas
+sklearn
